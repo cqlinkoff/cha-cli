@@ -1,0 +1,26 @@
+{
+  "name": "@cqmbr/cha-cli",
+  "version": "1.0.0",
+  "description": "Cha application build command-line tool, make web no config files",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cqmbr/cha-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "command-line",
+    "tool",
+    "cha",
+    "build"
+  ],
+  "author": "kagawagao <kingsongao1221@gmail.com> (https://kingsongao.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cqmbr/cha-cli/issues"
+  },
+  "homepage": "https://github.com/cqmbr/cha-cli#readme"
+}

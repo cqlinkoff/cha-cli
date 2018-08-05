@@ -1,2 +1,3 @@
 # cha-cli
-Cha application build command-line tool, make web no config files
+
+> 🔨 Cha application build command-line tool, make web no config files
